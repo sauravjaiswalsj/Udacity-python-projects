@@ -11,7 +11,7 @@ break_count = 0;
 
 print("The program started on "+time.ctime())
 while (break_count < total_break):
-    time.sleep(1220);
+    time.sleep(2*60*60);
     webbrowser.open("https://www.youtube.com/watch?v=aTvJWKu9bMs&start_radio=1&list=RDaTvJWKu9bMs");
     break_count=break_count+1
 

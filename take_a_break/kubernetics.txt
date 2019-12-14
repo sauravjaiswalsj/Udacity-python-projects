@@ -1,0 +1,2 @@
+container: The os is installed in the Host Machine rather than the hardware machine which used to happen in the VMware
+
